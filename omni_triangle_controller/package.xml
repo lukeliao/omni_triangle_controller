@@ -1,12 +1,12 @@
 <package>
   <name>omni_triangle_controller</name>
-  <version>0.1.0</version>
+  <version>0.9.1</version>
   <description>Controller for a omni_triangle drive mobile base.</description>
-  <maintainer email="luke_liao@126.com">Luke Liao</maintainer>
+  <maintainer email="bence.magyar@pal-robotics.com">Bence Magyar</maintainer>
 
   <license>BSD</license>
 
-  <author email="luke_liao@126.com.com">Luke Liao</author>
+  <author email="luke_liao@126.com.com">Bence Magyar</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
